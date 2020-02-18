@@ -1,4 +1,40 @@
-<style type="text/css">
-<!--
-h1 { color:white; font-size:72pt; }
--->
+/* CSS Styles */
+html {
+	margin: 0;
+	padding: 0;
+	}
+body {
+	font: 18px;
+  font-family: 'Raleway', sans-serif;
+	line-height: 1.6;
+	letter-spacing:2px;
+	margin: 100px;
+	margin-bottom: 10px;
+	padding: 0;
+	}
+h1 {
+  	font-size: 48px ;
+  	letter-spacing: 40px;
+  	margin-bottom: 50px;
+  	}
+
+		.middle{
+			margin-top: 0;
+			margin-left: 200;
+			left: 200px;
+			top: 200px;
+			width:500px;
+			height:640px;
+		}
+
+ .last {
+  position: absolute;
+	 margin-top: 1850;
+	 margin-left: 10;
+	 margin-bottom: 20;
+	 left: 700px;
+	 top: 200px;
+	 bottom: 20px;
+	 width:500px;
+	 height:640px;
+ }
